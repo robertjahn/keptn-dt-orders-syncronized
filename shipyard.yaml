@@ -1,7 +1,1 @@
-apiVersion: "spec.keptn.sh/0.2.0"
-kind: "Shipyard"
-metadata:
-  name: "shipyard-quality-gates"
-spec:
-  stages:
-    - name: "quality-gate"
+YXBpVmVyc2lvbjogInNwZWMua2VwdG4uc2gvMC4yLjIiCmtpbmQ6ICJTaGlweWFyZCIKbWV0YWRhdGE6CiAgbmFtZTogInNoaXB5YXJkLWR5bmF0cmFjZSIKc3BlYzoKICBzdGFnZXM6CiAgICAtIG5hbWU6ICJxdWFsaXR5LWdhdGUiCg==
